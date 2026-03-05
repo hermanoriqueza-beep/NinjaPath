@@ -1,0 +1,207 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "KonohaTab",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": true,
+      "path": "~"
+    },
+    {
+      "name": "KonohaArmor",
+      "type": "armor",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": true,
+      "path": "~"
+    },
+    {
+      "name": "ChakraSystem",
+      "type": "code",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": true,
+      "path": "~"
+    },
+    {
+      "name": "ChakraOverlay",
+      "type": "code",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": true,
+      "path": "~"
+    },
+    {
+      "name": "Keybinds",
+      "type": "code",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": true,
+      "path": "~"
+    },
+    {
+      "name": "NinjaWeapons",
+      "type": "code",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": true,
+      "path": "~"
+    },
+    {
+      "name": "Projectiles",
+      "type": "code",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": true,
+      "path": "~"
+    },
+    {
+      "name": "JutsuRegistry",
+      "type": "code",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": true,
+      "path": "~"
+    },
+    {
+      "name": "JutsuScrolls",
+      "type": "code",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": true,
+      "path": "~"
+    },
+    {
+      "name": "NinjaFood",
+      "type": "code",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": true,
+      "path": "~"
+    },
+    {
+      "name": "AkatsukiArmor",
+      "type": "armor",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": true,
+      "path": "~"
+    },
+    {
+      "name": "AnbuArmor",
+      "type": "armor",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": true,
+      "path": "~"
+    },
+    {
+      "name": "SageArmor",
+      "type": "armor",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": true,
+      "path": "~"
+    },
+    {
+      "name": "NinjaBlocks",
+      "type": "code",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": true,
+      "path": "~"
+    },
+    {
+      "name": "NPCEntities",
+      "type": "code",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": true,
+      "path": "~"
+    },
+    {
+      "name": "JutsuMenu",
+      "type": "code",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": true,
+      "path": "~"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.kunai.name": "Kunai",
+      "item.chidori_scroll.name": "Chidori Scroll",
+      "item.rice_ball.name": "Rice Ball",
+      "item.dango.name": "Dango",
+      "item.akatsuki_armor_boots.name": "Akatsuki Boots",
+      "item.katana.name": "Katana",
+      "item.substitution_scroll.name": "Substitution Scroll",
+      "item.akatsuki_armor_leggings.name": "Akatsuki Leggings",
+      "entity.projetokonoha.kakashi_npc.name": "Kakashi Hatake",
+      "item.sage_armor_boots.name": "Sage Boots",
+      "item.senbon.name": "Senbon",
+      "item.anbu_armor_chestplate.name": "ANBU Chestplate",
+      "item.explosive_kunai.name": "Explosive Kunai",
+      "item.shuriken.name": "Shuriken",
+      "entity.projetokonoha.sakura_npc.name": "Sakura Haruno",
+      "tile.chakra_altar.name": "Chakra Altar",
+      "item.blank_scroll.name": "Blank Scroll",
+      "item.akatsuki_armor_helmet.name": "Akatsuki Helmet",
+      "entity.projetokonoha.sasuke_npc.name": "Sasuke Uchiha",
+      "item.anbu_armor_helmet.name": "ANBU Helmet",
+      "item.rasengan_scroll.name": "Rasengan Scroll",
+      "item.konoha_armor_chestplate.name": "Konoha Chestplate",
+      "item.konoha_armor_boots.name": "Konoha Boots",
+      "item.shadow_clone_scroll.name": "Shadow Clone Scroll",
+      "item.konoha_armor_helmet.name": "Konoha Helmet",
+      "item.earth_wall_scroll.name": "Earth Wall Scroll",
+      "item.body_flicker_scroll.name": "Body Flicker Scroll",
+      "itemGroup.tabkonoha": "Konoha Ninja Mod",
+      "entity.projetokonoha.naruto_npc.name": "Naruto Uzumaki",
+      "item.water_dragon_scroll.name": "Water Dragon Scroll",
+      "item.soldier_pill.name": "Soldier Pill",
+      "item.sage_armor_leggings.name": "Sage Leggings",
+      "tile.training_dummy.name": "Training Dummy",
+      "item.wind_blade_scroll.name": "Wind Blade Scroll",
+      "item.anbu_armor_leggings.name": "ANBU Leggings",
+      "item.konoha_armor_leggings.name": "Konoha Leggings",
+      "item.sage_armor_chestplate.name": "Sage Chestplate",
+      "item.sage_armor_helmet.name": "Sage Helmet",
+      "item.healing_scroll.name": "Healing Scroll",
+      "item.chakra_fruit.name": "Chakra Fruit",
+      "tile.konoha_planks.name": "Konoha Planks",
+      "tile.konoha_stone.name": "Konoha Stone",
+      "item.fireball_scroll.name": "Fireball Scroll",
+      "item.ramen.name": "Ichiraku Ramen",
+      "item.anbu_armor_boots.name": "ANBU Boots",
+      "item.akatsuki_armor_chestplate.name": "Akatsuki Chestplate"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "projetokonoha",
+    "modName": "ProjetoKonoha",
+    "version": "1.0.0",
+    "author": "andra, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.12.2",
+    "modElementsPackage": "net.mcreator.projetokonoha",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}
